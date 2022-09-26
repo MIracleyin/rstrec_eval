@@ -93,4 +93,5 @@ mod tests {
             assert_eq!(input, &decompressed_output[..]);
         }
     }
+
 }
